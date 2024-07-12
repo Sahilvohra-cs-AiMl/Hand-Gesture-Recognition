@@ -19,8 +19,7 @@ pip install opencv-python numpy
 
 **Usage**
 Clone the repository:
-git clone https://github.com/vibhusharan2407/GestureRecognition
-cd GestureRecognition
+git clone https://github.com/Sahilvohra-cs-AiMl/Hand-Gesture-Recognition.git
 
 Run the Python script:
 python gesture_recognition.py
